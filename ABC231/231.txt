@@ -1,0 +1,7 @@
+https://atcoder.jp/contests/abc231
+
+A.   
+B. 
+文字の複数行を配列に格納する方法
+url:https://ebisuke33.hatenablog.com/entry/standard-input
+C.
